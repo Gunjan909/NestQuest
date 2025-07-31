@@ -1,0 +1,263 @@
+[
+  {
+    "neighborhood": "Green Oaks",
+    "price": 800000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 2000,
+    "description": "Welcome to this eco-friendly oasis nestled in the heart of Green Oaks. This charming 3-bedroom, 2-bathroom home boasts energy-efficient features such as solar panels and a well-insulated structure. Natural light floods the living spaces, highlighting the beautiful hardwood floors and eco-conscious finishes. The open-concept kitchen and dining area lead to a spacious backyard with a vegetable garden, perfect for the eco-conscious family.",
+    "neighborhood_description": "Green Oaks is a close-knit, environmentally-conscious community with access to organic grocery stores, community gardens, and bike paths. Take a stroll through the nearby Green Oaks Park or grab a cup of coffee at the cozy Green Bean Cafe."
+  },
+  {
+    "neighborhood": "Lakeview Ridge",
+    "price": 1100000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqft": 3200,
+    "description": "This elegant two-story home offers stunning lake views and modern luxury. With 4 spacious bedrooms and a chef’s kitchen equipped with high-end appliances, it’s perfect for families or entertaining. The primary suite includes a private balcony and spa-like bathroom. Hardwood floors and vaulted ceilings complete the upscale design.",
+    "neighborhood_description": "Lakeview Ridge is an upscale lakeside community known for its picturesque views, private docks, and evening paddleboarding. Residents enjoy peaceful walks, great schools, and vibrant community events year-round."
+  },
+  {
+    "neighborhood": "Maplewood Hills",
+    "price": 720000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqft": 2400,
+    "description": "This spacious home in Maplewood Hills features an open floor plan, large kitchen island, and vaulted ceilings. The master suite includes a spa-inspired bathroom and walk-in closet. Enjoy evenings on the deck overlooking a wooded backyard.",
+    "neighborhood_description": "Maplewood Hills is a quiet, family-friendly neighborhood with tree-lined streets, top-rated schools, and weekend farmers markets. Hiking trails and local cafés make it perfect for outdoor lovers."
+  },
+  {
+    "neighborhood": "Sunset Glen",
+    "price": 650000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1850,
+    "description": "Cozy and stylish, this 3-bedroom bungalow offers bright living spaces, a wood-burning fireplace, and a remodeled kitchen with quartz countertops. French doors open to a beautifully landscaped backyard patio.",
+    "neighborhood_description": "Sunset Glen is a walkable neighborhood known for its vibrant sunsets, trendy eateries, and charming boutiques. Residents often gather for block parties and local art walks."
+  },
+  {
+    "neighborhood": "Brookstone Creek",
+    "price": 925000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "size_sqft": 3500,
+    "description": "A spacious two-story craftsman with 5 bedrooms and multiple living areas. Features include a gourmet kitchen, formal dining room, and a finished basement with home theater. The backyard has a covered patio and fire pit.",
+    "neighborhood_description": "Brookstone Creek is a suburban gem known for excellent schools, large family homes, and well-maintained parks. A short drive from the city, it offers peace and space with easy access to amenities."
+  },
+  {
+    "neighborhood": "Avalon Heights",
+    "price": 1350000,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "size_sqft": 3300,
+    "description": "This modern architectural marvel boasts an open layout, floor-to-ceiling windows, and smart-home integration throughout. The main suite includes a designer closet and a luxury soaking tub.",
+    "neighborhood_description": "Avalon Heights is an elite hillside enclave offering panoramic views, gated security, and proximity to upscale shopping and fine dining. Known for sleek homes and exclusivity."
+  },
+  {
+    "neighborhood": "Willowbend",
+    "price": 580000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1600,
+    "description": "Charming single-story home with a warm cottage feel. Features include a bright sunroom, updated kitchen, and a large backyard with mature trees — ideal for pets and children.",
+    "neighborhood_description": "Willowbend is a friendly, laid-back neighborhood with tree-lined sidewalks, great local schools, and weekend farmers markets. A great choice for young families and first-time buyers."
+  },
+  {
+    "neighborhood": "Midtown Terrace",
+    "price": 990000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqft": 2700,
+    "description": "This contemporary home offers urban convenience with suburban space. Featuring a rooftop deck, sleek modern finishes, and a flexible home office space, it’s designed for the modern professional.",
+    "neighborhood_description": "Midtown Terrace is a vibrant, centrally located district known for nightlife, cafés, coworking spaces, and easy public transit. Perfect for young professionals and remote workers."
+  },
+  {
+    "neighborhood": "Pine Hollow",
+    "price": 430000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size_sqft": 1300,
+    "description": "A cozy starter home in a wooded neighborhood, featuring a newly renovated kitchen, wood-paneled living room, and fenced backyard. Ideal for couples or singles seeking peace and quiet.",
+    "neighborhood_description": "Pine Hollow is a peaceful, nature-heavy area on the outskirts of the city. Popular for its hiking trails, birdwatching spots, and community cabin-style charm."
+  },
+  {
+    "neighborhood": "Riverstone Bay",
+    "price": 1480000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "size_sqft": 3800,
+    "description": "Luxury coastal living at its finest. This beachside retreat includes a chef’s kitchen, spa bathrooms, and floor-to-ceiling ocean views. The open floor plan and wraparound porch are perfect for entertaining.",
+    "neighborhood_description": "Riverstone Bay is a luxury waterfront community with private beach access, sailing clubs, and fine seafood dining. Residents enjoy tranquility with all the perks of resort-style living."
+  },
+  {
+    "neighborhood": "Cedar Vale",
+    "price": 710000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 2100,
+    "description": "Nestled among towering cedar trees, this 3-bedroom retreat features exposed beams, a stone fireplace, and an open-concept layout perfect for entertaining. The chef’s kitchen leads to a deck overlooking a forested ravine.",
+    "neighborhood_description": "Cedar Vale is a serene, wooded neighborhood popular with nature lovers. Known for its peaceful hiking trails, wildlife sightings, and tight-knit community vibe."
+  },
+  {
+    "neighborhood": "Stonebridge Estates",
+    "price": 890000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqft": 2900,
+    "description": "This classic colonial-style home boasts a stately brick exterior, formal living spaces, and a large backyard with a gazebo. The interior features crown molding, built-ins, and a newly updated kitchen.",
+    "neighborhood_description": "Stonebridge Estates is an established, upscale neighborhood with manicured lawns, top-tier schools, and close proximity to golf courses and private clubs."
+  },
+  {
+    "neighborhood": "Foxwood Glen",
+    "price": 560000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1750,
+    "description": "A delightful ranch-style home with modern updates and mid-century flair. Includes a bright sunken living room, skylights, and a backyard patio shaded by mature oaks.",
+    "neighborhood_description": "Foxwood Glen is a quiet, walkable community known for its vintage charm, friendly neighbors, and easy access to parks and local diners."
+  },
+  {
+    "neighborhood": "Harbor Crest",
+    "price": 1275000,
+    "bedrooms": 5,
+    "bathrooms": 4.5,
+    "size_sqft": 4100,
+    "description": "Stunning coastal property featuring panoramic water views, a gourmet kitchen with marble counters, and a two-level terrace with hot tub. Perfect blend of elegance and comfort.",
+    "neighborhood_description": "Harbor Crest is a prestigious coastal neighborhood with yacht clubs, upscale dining, and walking paths along the bay. Ideal for those seeking luxury with a maritime flair."
+  },
+  {
+    "neighborhood": "Elmwood Park",
+    "price": 490000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size_sqft": 1400,
+    "description": "This charming craftsman bungalow features original woodwork, built-in shelving, and a large front porch. The updated kitchen and spacious backyard offer both character and convenience.",
+    "neighborhood_description": "Elmwood Park is a historic neighborhood full of early 20th-century homes, mature trees, and community events like porch concerts and vintage markets."
+  },
+  {
+    "neighborhood": "Hawthorne Ridge",
+    "price": 870000,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "size_sqft": 3000,
+    "description": "Modern and bright, this hillside home offers a dramatic great room with floor-to-ceiling windows, a chef’s kitchen, and a spa-style primary suite with balcony access.",
+    "neighborhood_description": "Hawthorne Ridge is a contemporary neighborhood perched above the city, offering skyline views, walking trails, and an artistic, design-focused community."
+  },
+  {
+    "neighborhood": "Juniper Flats",
+    "price": 620000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1900,
+    "description": "With desert-inspired landscaping and southwestern architecture, this adobe-style home includes a courtyard entry, terracotta tile floors, and a shaded pergola patio.",
+    "neighborhood_description": "Juniper Flats is a sunny desert community with an emphasis on sustainability, outdoor recreation, and local artisan shops. Great for those who love warm weather and natural beauty."
+  },
+  {
+    "neighborhood": "Silverpine Meadows",
+    "price": 760000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqft": 2500,
+    "description": "This farmhouse-inspired home blends rustic touches with modern upgrades. Highlights include barn doors, a farmhouse sink, and a wraparound porch with countryside views.",
+    "neighborhood_description": "Silverpine Meadows is a semi-rural neighborhood offering large lots, equestrian trails, and weekend farm stands. Peaceful living just outside the city."
+  },
+  {
+    "neighborhood": "Oakridge Landing",
+    "price": 1010000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "size_sqft": 3400,
+    "description": "A stunning home with contemporary architecture, a sleek interior, and a rooftop lounge with sunset views. Includes a media room and wine cellar for entertaining.",
+    "neighborhood_description": "Oakridge Landing is a modern planned community with green building principles, a private clubhouse, and weekly food truck gatherings. Family-friendly and design-forward."
+  },
+  {
+    "neighborhood": "Crystal Hollow",
+    "price": 455000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "size_sqft": 1200,
+    "description": "A peaceful cottage retreat tucked into the hills, featuring exposed brick, a wood-burning stove, and a backyard filled with native wildflowers.",
+    "neighborhood_description": "Crystal Hollow is a hidden gem of a neighborhood known for its artistic residents, bohemian charm, and stunning seasonal wildflower blooms. Ideal for creatives and nature lovers."
+  },
+  {
+    "neighborhood": "Cedar Heights",
+    "price": 760000,
+    "bedrooms": 3,
+    "bathrooms": 2.5,
+    "size_sqft": 2100,
+    "description": "A beautiful split-level home featuring vaulted ceilings, a wood-burning fireplace, and a spacious deck overlooking a tree-filled backyard. The updated kitchen includes stainless steel appliances and granite countertops.",
+    "neighborhood_description": "Cedar Heights is a serene neighborhood surrounded by old-growth trees, with walking trails and a community center offering weekly yoga and book clubs. It’s ideal for those who enjoy peaceful surroundings and a tight-knit community."
+  },
+  {
+    "neighborhood": "Harbor Point",
+    "price": 1200000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqft": 3100,
+    "description": "Enjoy waterfront living in this modern craftsman with panoramic bay views. This 4-bedroom home offers an open-concept design, large picture windows, and a wraparound deck perfect for sunset dinners.",
+    "neighborhood_description": "Harbor Point is an exclusive coastal enclave featuring private docks, seafood restaurants, and marina access. Residents value its quiet beauty and easy boat access to nearby islands."
+  },
+  {
+    "neighborhood": "Rosewood Estates",
+    "price": 695000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1900,
+    "description": "This inviting single-story home features a spacious open floor plan, sunlit living room, and a chef’s kitchen with a double oven and large center island. The backyard has a covered patio perfect for gatherings.",
+    "neighborhood_description": "Rosewood Estates is a welcoming suburban community known for its excellent schools, active neighborhood association, and abundance of green space."
+  },
+  {
+    "neighborhood": "Boulder Creek",
+    "price": 885000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "size_sqft": 2800,
+    "description": "Tucked against forested hills, this home features rustic design elements, exposed beams, a stone fireplace, and an expansive outdoor deck. The downstairs bonus room is ideal for a home office or gym.",
+    "neighborhood_description": "Boulder Creek attracts outdoor enthusiasts with its trail networks, trout streams, and proximity to national parks. It’s a favorite among nature lovers and remote workers."
+  },
+  {
+    "neighborhood": "Orchard Valley",
+    "price": 540000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1700,
+    "description": "This cozy ranch-style home features laminate wood floors, a charming front porch, and a large fenced yard. A spacious eat-in kitchen opens into a comfortable living area with plenty of natural light.",
+    "neighborhood_description": "Orchard Valley is a peaceful community known for apple orchards, weekend markets, and seasonal festivals. Great for families and retirees."
+  },
+  {
+    "neighborhood": "Elmwood Terrace",
+    "price": 780000,
+    "bedrooms": 4,
+    "bathrooms": 2.5,
+    "size_sqft": 2500,
+    "description": "This two-story colonial offers classic style with modern updates. The main level includes formal living and dining rooms, plus a bright sunroom that overlooks a lush backyard garden.",
+    "neighborhood_description": "Elmwood Terrace is an established neighborhood with historic charm, top-tier schools, and walkable access to libraries, bakeries, and local coffee shops."
+  },
+  {
+    "neighborhood": "Sierra Ridge",
+    "price": 990000,
+    "bedrooms": 5,
+    "bathrooms": 4,
+    "size_sqft": 3400,
+    "description": "Spacious and modern, this home includes a home theater, dual office spaces, and a gourmet kitchen. The master suite features a private balcony and a luxurious spa bathroom.",
+    "neighborhood_description": "Sierra Ridge offers luxury mountain living with quick access to ski resorts, hiking trails, and a private community clubhouse with a pool and fitness center."
+  },
+  {
+    "neighborhood": "Oak Hollow",
+    "price": 610000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "size_sqft": 1800,
+    "description": "This light-filled home features a vaulted great room, skylights, and a landscaped backyard retreat. The updated kitchen opens to a cozy breakfast nook with bay windows.",
+    "neighborhood_description": "Oak Hollow is a quiet neighborhood with mature oak trees, a scenic pond, and easy walking access to the local elementary school and bike paths."
+  },
+  {
+    "neighborhood": "Highland Crest",
+    "price": 1050000,
+    "bedrooms": 4,
+    "bathrooms": 3.5,
+    "size_sqft": 3200,
+    "description": "Built for entertaining, this luxury home includes a wine cellar, outdoor kitchen, and poolside lounge area. Inside, find a grand foyer, formal dining room, and smart-home automation.",
+    "neighborhood_description": "Highland Crest is a luxury development perched on rolling hills, offering sweeping city views, exclusive events, and a gated entrance with 24/7 security."
+  }  
+]

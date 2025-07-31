@@ -1,0 +1,239 @@
+EXAMPLE 1
+
+questions = [   
+    "How big do you want your house to be?", 
+    "What are 3 most important things for you in choosing this property?", 
+    "Which amenities would you like?", 
+    "Which transportation options are important to you?",
+    "How urban do you want your neighborhood to be?",   
+]
+
+answers = [
+    "At least three-bedrooms with a big kitchen.",
+    "A quiet neighborhood, good local schools, and convenient shopping options.",
+    "A backyard for gardening and a two-car garage",
+    "Easy access to a reliable bus line walk-friendly roads.",
+    "Suburban but with easy access to urban amenities like restaurants and theaters."
+]
+
+
+The above questions/answers produce the below output:
+
+
+Augmented Description:
+ **Listing Description:**
+
+**Neighborhood:** Willowbend  
+**Price:** $580,000  
+**Bedrooms:** 3  
+**Bathrooms:** 2  
+**Size:** 1,600 sqft  
+
+Welcome to this charming single-story home in the desirable Willowbend neighborhood, perfect for families seeking a peaceful atmosphere. This delightful residence boasts a warm cottage feel and features three spacious bedrooms, ideal for comfortable living. The updated kitchen is designed for culinary enthusiasts, while the bright sunroom offers a serene space for relaxation or family gatherings.
+
+Step outside to discover a large backyard adorned with mature trees, providing an inviting area for gardening, play, and outdoor activities for pets and children alike. Willowbend is known for its tree-lined sidewalks, creating a tranquil environment that's perfect for leisurely strolls. 
+
+Residents enjoy access to great local schools and convenient shopping options, making this a fantastic choice for young families and first-time buyers. Plus, with easy access to reliable bus lines and walk-friendly roads, commuting to urban amenities like restaurants and theaters is a breeze.
+
+Don’t miss your chance to call this lovely home in Willowbend your own!
+
+
+Augmented Description:
+ **Listing Description:**
+
+**Neighborhood:** Rosewood Estates  
+**Price:** $695,000  
+**Bedrooms:** 3  
+**Bathrooms:** 2  
+**Size:** 1,900 sqft  
+
+Welcome to this charming single-story home in the desirable Rosewood Estates, where suburban tranquility meets convenience. This inviting residence boasts a spacious open floor plan, perfect for both family gatherings and entertaining friends. The sunlit living room flows seamlessly into a chef’s kitchen, featuring a double oven and a large center island that will delight any cooking enthusiast.
+
+Step outside to discover a beautifully landscaped backyard with a covered patio, ideal for gardening and hosting outdoor gatherings. It’s a serene space to unwind after a long day.
+
+Located in the heart of Rosewood Estates, this community is renowned for its excellent schools and active neighborhood association, making it a perfect choice for families. Enjoy the abundance of green space and the peaceful atmosphere that this welcoming suburban neighborhood offers, all while having easy access to urban amenities such as restaurants and theaters. 
+
+With convenient shopping options nearby and walk-friendly roads, you’ll also appreciate the easy access to reliable public transportation. This home not only meets your criteria for a spacious, three-bedroom layout but also aligns perfectly with your desire for a quiet neighborhood equipped with everything you need for a comfortable lifestyle. 
+
+Don’t miss the chance to make this wonderful property your new home!
+
+
+Augmented Description:
+ **Listing Description:**
+
+**Neighborhood:** Brookstone Creek  
+**Price:** $925,000  
+**Bedrooms:** 5  
+**Bathrooms:** 4  
+**Size:** 3,500 sqft  
+
+Welcome to your dream home in the peaceful community of Brookstone Creek! This spacious two-story craftsman features 5 bedrooms and multiple living areas, perfect for families seeking room to grow. The gourmet kitchen is designed for those who love to cook and entertain, flowing seamlessly into a formal dining room ideal for gatherings. 
+
+The finished basement is a standout feature, complete with a home theater, ensuring plenty of entertainment options for family movie nights. Step outside to discover a beautifully landscaped backyard, complete with a covered patio and fire pit—an inviting space for gardening and outdoor relaxation.
+
+Brookstone Creek is renowned for its excellent schools, making it an ideal choice for families. Enjoy the tranquility of suburban living while being just a short drive from the city, providing easy access to shopping, dining, and entertainment options. The neighborhood also boasts well-maintained parks and walk-friendly roads, with reliable bus lines nearby for convenient transportation.
+
+Don’t miss this opportunity to enjoy a spacious family home in a quiet, family-oriented community with all the conveniences you desire!
+
+
+Augmented Description:
+ **Listing Description:**
+
+**Neighborhood:** Silverpine Meadows  
+**Price:** $760,000  
+**Bedrooms:** 4, **Bathrooms:** 3  
+**Size:** 2,500 sqft  
+
+Discover your dream home in Silverpine Meadows, where peaceful living meets modern comfort. This farmhouse-inspired residence features 4 spacious bedrooms and a generous layout perfect for family gatherings. The heart of the home boasts a large kitchen, complete with a charming farmhouse sink, inviting you to create culinary delights.
+
+Step outside to enjoy the expansive wraparound porch, offering picturesque countryside views—a perfect spot to unwind after a busy day. The backyard provides ample space for gardening enthusiasts to cultivate their favorite plants, making it an ideal haven for outdoor lovers.
+
+Silverpine Meadows is a semi-rural community that perfectly balances tranquility with convenience. Enjoy the serenity of large lots and equestrian trails, while being just minutes away from local shopping and amenities. Families will appreciate the nearby good schools and the community's commitment to a peaceful lifestyle.
+
+With easy access to a reliable bus line and walk-friendly roads, commuting to urban attractions like restaurants and theaters is a breeze. This home combines rustic charm with modern upgrades, making it the perfect sanctuary for those seeking both comfort and connection to nature.
+
+Don’t miss the opportunity to call this delightful property your new home!
+
+
+Augmented Description:
+ **Listing Description:**
+
+**Neighborhood:** Green Oaks  
+**Price:** $800,000  
+**Bedrooms:** 3  
+**Bathrooms:** 2  
+**Size:** 2,000 sqft  
+
+Welcome to your eco-friendly oasis in the tranquil and close-knit community of Green Oaks. This charming 3-bedroom, 2-bathroom home is perfect for families seeking a peaceful environment with access to excellent local schools. With energy-efficient features such as solar panels and a well-insulated structure, you can enjoy a sustainable lifestyle in comfort.
+
+Natural light floods the living spaces, showcasing the beautiful hardwood floors and eco-conscious finishes that create a warm, inviting atmosphere. The open-concept kitchen and dining area provide ample space for family gatherings and culinary adventures. Step outside to discover a spacious backyard, complete with a vegetable garden—ideal for gardening enthusiasts and eco-conscious families alike.
+
+Conveniently located near organic grocery stores and community gardens, Green Oaks offers a suburban lifestyle with easy access to urban amenities. Enjoy leisurely strolls through the nearby Green Oaks Park or stop by the cozy Green Bean Cafe for your morning coffee. With walk-friendly roads and reliable bus lines nearby, commuting and exploring the area has never been easier. 
+
+Experience the perfect blend of comfort, sustainability, and community in this delightful home. Don’t miss the chance to make it yours!
+
+
+
+
+
+
+
+
+
+
+
+
+EXAMPLE 2
+
+
+questions = [   
+    "How big do you want your house to be?", 
+    "What are 3 most important things for you in choosing this property?", 
+    "Which amenities would you like?", 
+    "Which transportation options are important to you?",
+    "How urban do you want your neighborhood to be?",   
+]
+
+answers = [
+    "Five-bedrooms.",
+    "A big kitchen, nearby restaurants, and quiet area",
+    "A fireplace",
+    "Traveling by car, so quick highway access is preferred",
+    "Not at all."
+]
+
+
+The above questions/answers produce the below output:
+
+Augmented Description:
+ **Listing Description:**
+
+**Neighborhood:** Brookstone Creek  
+**Price:** $925,000  
+**Bedrooms:** 5 | **Bathrooms:** 4  
+**Size:** 3,500 sqft  
+
+Discover the perfect blend of spacious living and tranquility in this stunning two-story craftsman home located in the serene Brookstone Creek neighborhood. Boasting 5 generously sized bedrooms and multiple living areas, this residence is ideal for families seeking both comfort and functionality. 
+
+The heart of the home is the expansive gourmet kitchen, perfect for culinary enthusiasts who appreciate ample space for cooking and entertaining. Enjoy memorable meals in the elegant formal dining room, or relax in the cozy family areas that invite you to unwind. The finished basement enhances your living experience with a dedicated home theater, providing a private retreat for movie nights.
+
+Step outside to the inviting backyard, complete with a covered patio and fire pit—perfect for cozy evenings under the stars or entertaining friends and family. 
+
+Brookstone Creek is a suburban gem known for its excellent schools, large family homes, and well-maintained parks. Enjoy the peaceful ambiance of this quiet neighborhood, while still being just a short drive from the city’s amenities. With quick access to highways, commuting is a breeze for those traveling by car. 
+
+This home is the perfect sanctuary for those seeking a spacious, family-friendly environment without the hustle and bustle of urban living. Don’t miss the opportunity to make it yours!
+
+
+Augmented Description:
+ **Listing Description:**
+
+**Neighborhood:** Avalon Heights  
+**Price:** $1,350,000  
+**Bedrooms:** 4  
+**Bathrooms:** 3.5  
+**Size:** 3,300 sqft  
+
+Discover this stunning modern architectural marvel nestled in the exclusive Avalon Heights neighborhood. While this impressive home features 4 spacious bedrooms and 3.5 luxurious bathrooms, it offers the potential for additional customization to suit your lifestyle needs. The open layout is enhanced by floor-to-ceiling windows that invite natural light, creating a bright and airy atmosphere. 
+
+The main suite is a true retreat, complete with a designer closet and a luxury soaking tub—perfect for unwinding in a serene environment. Although the home does not currently include a fireplace, the expansive living area provides an inviting space for entertaining or relaxing with family. 
+
+Avalon Heights is an elite hillside enclave known for its tranquility, offering panoramic views and gated security, ensuring a peaceful living experience away from the hustle and bustle. The neighborhood is conveniently located near upscale shopping and fine dining, just a short drive away, allowing for easy access to your favorite restaurants without the urban noise. Enjoy quick highway access for seamless travel by car, making it a perfect fit for those seeking both comfort and convenience.
+
+Embrace the opportunity to make this extraordinary property your own in a coveted community that perfectly balances privacy with accessibility.
+
+
+Augmented Description:
+ **Listing Description:**
+
+**Neighborhood:** Silverpine Meadows  
+**Price:** $760,000  
+**Bedrooms:** 4  
+**Bathrooms:** 3  
+**Size:** 2,500 sqft  
+
+Discover the charm of this farmhouse-inspired home in the serene neighborhood of Silverpine Meadows. With its rustic touches and modern upgrades, this property offers a warm, inviting atmosphere. Step inside to find beautiful barn doors and a spacious layout that flows seamlessly into a large kitchen, perfect for culinary enthusiasts. The farmhouse sink adds a delightful touch, while the cozy fireplace creates a perfect spot for relaxation during chilly evenings.
+
+Enjoy your mornings or unwind in the evenings on the expansive wraparound porch, where you can take in the tranquil countryside views—ideal for those seeking peace and quiet just outside the hustle and bustle of the city. With large lots and equestrian trails nearby, Silverpine Meadows embodies a serene, semi-rural lifestyle, making it a perfect retreat.
+
+For those who appreciate convenience, quick highway access ensures that dining and entertainment options are just a short drive away, allowing you to explore nearby restaurants without compromising on the peaceful living you desire.
+
+**Neighborhood Description:**  
+Silverpine Meadows is not just a place to live; it’s a lifestyle choice. With ample space, equestrian trails, and weekend farm stands, this neighborhood offers a harmonious blend of nature and community. Experience a quiet area where you can truly unwind and enjoy the beauty of your surroundings. 
+
+This home may be just what you’re looking
+
+
+Augmented Description:
+ **Listing Description: Cedar Heights Serenity**
+
+**Price:** $760,000  
+**Bedrooms:** 3  
+**Bathrooms:** 2.5  
+**Size:** 2,100 sqft  
+
+Discover the charm of this beautiful split-level home nestled in the tranquil Cedar Heights neighborhood. With its inviting vaulted ceilings and cozy wood-burning fireplace, this residence offers a perfect retreat from the hustle and bustle of urban life. The spacious deck, overlooking a serene tree-filled backyard, is an ideal spot for relaxation and enjoying nature.
+
+While the home features three comfortable bedrooms, it presents a fantastic opportunity for customization or expansion to suit your growing needs. The updated kitchen, complete with stainless steel appliances and elegant granite countertops, is perfect for culinary enthusiasts who appreciate a bright and open space.
+
+Cedar Heights is a peaceful enclave surrounded by magnificent old-growth trees, boasting walking trails and a community center that hosts weekly yoga and book clubs, fostering a tight-knit and friendly atmosphere. With quick highway access, you can easily reach nearby restaurants and amenities while enjoying the calm of a quiet neighborhood.
+
+This home perfectly blends comfort and community, making it a wonderful choice for those seeking a serene lifestyle without compromising on convenience. Come see for yourself the potential this home holds!
+
+
+Augmented Description:
+ **Listing Description:**
+
+**Neighborhood:** Oakridge Landing  
+**Price:** $1,010,000  
+**Bedrooms:** 5 | **Bathrooms:** 4  
+**Size:** 3,400 sqft  
+
+Discover your dream home in the tranquil Oakridge Landing community, where contemporary architecture meets serene living. This stunning 5-bedroom, 4-bathroom residence offers an expansive 3,400 sqft layout, perfect for families seeking spaciousness and comfort. 
+
+Step inside to find a sleek interior designed for modern living, featuring a large kitchen that invites culinary creativity and gatherings with loved ones. The home also boasts a cozy fireplace, ideal for relaxing evenings. Entertain in style with a dedicated media room and a wine cellar, ensuring you have everything you need for hosting memorable events.
+
+One of the standout features of this property is the rooftop lounge, where you can unwind while taking in breathtaking sunset views. Nestled in a family-friendly neighborhood, Oakridge Landing is designed with green building principles and includes a private clubhouse for community gatherings.
+
+Enjoy the convenience of nearby restaurants while living in a peaceful area that feels miles away from the hustle and bustle. Plus, with quick access to the highway, traveling by car is a breeze.
+
+Experience the lifestyle you’ve always wanted in Oakridge Landing—a perfect blend of modern design, comfort, and tranquility.
