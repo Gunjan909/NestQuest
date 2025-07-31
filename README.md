@@ -41,6 +41,7 @@ conda env create -f environment.yml
 Create a `.env` file with your API key and endpoint URL as below
 
 OPENAI_API_KEY=YOUR_API_KEY
+
 BASE_URL=YOUR_LLM_ENDPOINT
 
 
