@@ -49,7 +49,9 @@ Run the database creation script to process listings and build the vector index:
 
 python app/create_vector_db.py
 
-This creates a vector db and persists it to disk.
+This creates a vector db and persists it to disk. 
+Note that this repo comes with an-already created database. Delete this if starting from scratch with a new listings file. 
+If using the provided listings.json file, this step can be skipped.
 
 
 5. **Run the main application**  
