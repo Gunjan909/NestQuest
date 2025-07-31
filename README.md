@@ -12,8 +12,9 @@ HomeMatch is a prototype real estate search tool that leverages vector databases
 - **data/preferences.py**  
   Contains predefined buyer preference questions and example answers to capture what a user is looking for in a home.
 
-- **db/**  
-  Directory where the vector database files are stored after creation. This folder persists the indexed embeddings and metadata for efficient querying.
+- **db/lance_db/**  
+  Directory where the vector database files are stored after creation. This folder persists the indexed embeddings and metadata for efficient querying. 
+  Delete the contents of this folder (i.e. all subfolders) if you want to start from scratch with a new listings.json data source.
 
 - **app/create_vector_db.py**  
   Script to generate embeddings from the listings and create the vector database. Run this once or whenever the listings data is updated.
