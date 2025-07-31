@@ -9,6 +9,10 @@ HomeMatch is a prototype real estate search tool that leverages vector databases
 - **data/listings.json**  
   Contains all the home listings with details like neighborhood, price, bedrooms, bathrooms, size, and descriptions.
 
+- **data/listings_prompt.txt**  
+  Contains a prompt that can be fed to an LLM to generate the listings.json file.
+
+
 - **data/preferences.py**  
   Contains predefined buyer preference questions and example answers to capture what a user is looking for in a home.
 
