@@ -1,4 +1,4 @@
-name: homematch
+name: nestquest
 channels:
   - conda-forge
   - https://repo.anaconda.com/pkgs/main

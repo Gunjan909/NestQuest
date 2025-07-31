@@ -1,4 +1,4 @@
-# HomeMatch - Personalized Real Estate Search
+# NestQuest - Personalized Real Estate Search
 
 HomeMatch is a real estate search tool that leverages vector databases and language models to find home listings tailored to a buyer’s preferences. It embeds property descriptions and buyer preferences into a vector space, enabling semantic search and personalized recommendations.
 
